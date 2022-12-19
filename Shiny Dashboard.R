@@ -135,5 +135,5 @@ server <- function(input,output) {
     paste("The average alcohol content for wines with a quality of",input$quality, "is", avg_alcohol)
   })
 }
-
+#Run the server
 shinyApp(ui,server)
