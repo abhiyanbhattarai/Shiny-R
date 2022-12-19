@@ -42,3 +42,4 @@ Here are some snapshots of our dashboard:
 
 ![Screenshot](Capture.PNG)
 
+![Screenshot1](Capture1.PNG)
