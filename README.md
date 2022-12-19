@@ -25,11 +25,6 @@ install.packages("shiny")
 #Install shinydashboard
 install.packages("shinydashboard")
 
-#Install ggplot2 to plot differnt graphs
-install.packages("ggplot2")
-
-#Install ggcorrplot to plot correlation between different attributes
-install.packages("ggcorrplot")
 
 ```
 Dataset used: **Wine Quality Dataset** 
@@ -43,3 +38,7 @@ Here are some snapshots of our dashboard:
 ![Screenshot](Capture.PNG)
 
 ![Screenshot1](Capture1.PNG)
+
+Don't forgot to run the code into your system.
+
+Happy Coding.
