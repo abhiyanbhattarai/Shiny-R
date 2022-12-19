@@ -40,4 +40,5 @@ We used white-wine data. Feel free to use any of them.
 
 Here are some snapshots of our dashboard:
 
+![Screenshot](capture.png)
 
